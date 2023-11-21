@@ -1,1 +1,1 @@
-I created a straightforward CRUD application using React, incorporating Bootstrap, Axios, and Spring Boot. My main goal was to revisit Java and gain a better understanding of Spring Boot while keeping the project refreshingly simple.
+Old project to understand Spring Boot better. This repository should be ignored in favor of this one: https://github.com/VadeanFlaviuAlexandru/TerraTech
